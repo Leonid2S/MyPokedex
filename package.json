@@ -1,0 +1,22 @@
+{
+  "name": "MyPokedex_leonid2s",
+  "version": "1.0.0",
+  "description": "My pokedex",
+  "main": "index.html",
+  "scripts": {
+    "start": "node_modules/http-server/bin/http-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Leonid2S/MyPokedex.git"
+  },
+  "author": "Tanakon Sawanglok",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FrontTechsTU/hw1-example/issues"
+  },
+  "homepage": "https://github.com/FrontTechsTU/hw1-example#readme",
+  "devDependencies": {
+    "http-server": "^0.9.0"
+  }
+}
