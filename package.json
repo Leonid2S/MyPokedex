@@ -13,9 +13,9 @@
   "author": "Tanakon Sawanglok",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/FrontTechsTU/hw1-example/issues"
+    "url": "https://github.com/FrontTechsTU/MyPokedex/issues"
   },
-  "homepage": "https://github.com/FrontTechsTU/hw1-example#readme",
+  "homepage": "https://github.com/FrontTechsTU/MyPokedex#readme",
   "devDependencies": {
     "http-server": "^0.9.0"
   }
